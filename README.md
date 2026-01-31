@@ -14,29 +14,6 @@ A simplified version of the cyber security riddle challenge that uses pre-record
      - `riddle1_success.mp3` - First riddle success message
      - (and so on for riddles 2-5)
 
-## Required Audio Files
-
-```
-audio/
-├── welcome.mp3
-├── final.mp3
-├── riddle1_question.mp3
-├── riddle1_hint.mp3
-├── riddle1_success.mp3
-├── riddle2_question.mp3
-├── riddle2_hint.mp3
-├── riddle2_success.mp3
-├── riddle3_question.mp3
-├── riddle3_hint.mp3
-├── riddle3_success.mp3
-├── riddle4_question.mp3
-├── riddle4_hint.mp3
-├── riddle4_success.mp3
-├── riddle5_question.mp3
-├── riddle5_hint.mp3
-└── riddle5_success.mp3
-```
-
 ## Dependencies
 
 ```bash
